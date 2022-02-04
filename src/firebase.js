@@ -1,14 +1,14 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD8KUAfTAUvwUOOIb8rVPeb8UCMPpjEfuE",
-  authDomain: "twittie-59f54.firebaseapp.com",
-  databaseURL: "https://twittie-59f54.firebaseio.com",
-  projectId: "twittie-59f54",
-  storageBucket: "twittie-59f54.appspot.com",
-  messagingSenderId: "714145250451",
-  appId: "1:714145250451:web:4a23488246591c0e942166",
-  measurementId: "G-46LTZ0HGY8"
+  apiKey: "AIzaSyA4ROx8THOSXOkEcP9nGj6qkwV-q8L8y3U",
+  authDomain: "only-chat-3524e.firebaseapp.com",
+  databaseURL: "https://only-chat-3524e-default-rtdb.firebaseio.com",
+  projectId: "only-chat-3524e",
+  storageBucket: "only-chat-3524e.appspot.com",
+  messagingSenderId: "825669167548",
+  appId: "1:825669167548:web:f96b47127448c014cbe3b9",
+  measurementId: "G-P28DDT8PM1"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
